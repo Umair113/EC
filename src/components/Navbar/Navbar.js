@@ -1,5 +1,5 @@
 import React from 'react'
-import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap';
+import { Navbar, Nav } from 'react-bootstrap';
 import background from '../../assets/background.png';
 import logo from './../../assets/logo.png';
 
@@ -30,7 +30,8 @@ const Navbars = () => {
                                 backgroundColor: "#2F53D3",
                                 borderRadius: "25px",
                                 width: "100px",
-                                fontWeight: "600"
+                                fontWeight: "600",
+                                textAlign: "center"
                             }}>Sign Up</Nav.Link>
 
                     </Nav>
