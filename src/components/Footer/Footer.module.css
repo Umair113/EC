@@ -1,0 +1,30 @@
+.main {
+    width: 100%;
+    min-height: 30vw;
+    background-color: #081D65;
+    position: relative;
+    bottom: 0;
+}
+
+.secondMain {
+    width: 90%;
+    height: 90%;
+    margin: 0 auto;
+    padding-top: 5vw;
+    color: white;
+}
+
+.headings {
+    margin-top: 5vw;
+    font-size: 1.7vw;
+}
+
+.links {
+    color: white;
+    font-size: 1.5vw;
+}
+
+a :hover {
+    text-decoration: none;
+    color: rgb(163, 200, 241);
+}
