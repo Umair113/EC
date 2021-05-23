@@ -1,0 +1,23 @@
+.input {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100%;
+    height: 10%;
+    margin-bottom: 5%;
+}
+
+.text {
+    text-align: left;
+    font-size: 1.4vw;
+    margin-top: 20%;
+    font-weight: 600;
+}
+
+.text a {
+    font-size: 1.3vw;
+    text-decoration: underline;
+}
+
+.text div a {
+    text-decoration: none;
+}

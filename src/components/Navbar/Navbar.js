@@ -6,6 +6,7 @@ import logo from './../../assets/logo.png';
 const Navbars = () => {
     return (
         <>
+
             <Navbar style={{
                 backgroundImage: `url(${background})`,
             }} expand="lg">
